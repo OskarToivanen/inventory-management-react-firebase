@@ -26,4 +26,7 @@ dist-ssr
 # Firebase
 firebase.json
 .firebaserc
-.firebase
+.firebase/
+
+# Firebase TypeScript file
+src/firebase/firebase.ts
